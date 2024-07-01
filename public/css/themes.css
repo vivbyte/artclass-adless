@@ -1,6 +1,6 @@
 body[theme="rose_gold"] {
     --text-color: #ffffff;
-    --background: #f3a683;
+    --background: #2596be;
     --navbar: #e79a58;
     --accent: #ff9a8b;
 }
@@ -16,13 +16,6 @@ body[theme="main"] {
     --navbar: #0e1213;
     --accent: #0284d4;
 }
-body[theme="lgbtq"] {
-    --text-color: black;
-    --background: url("https://www.rd.com/wp-content/uploads/2021/05/traditional-gay-pride-flag.jpg?resize=2048");
-    --navbar: #bcf3f6;
-    --accent: #DDF9FA;
-}
-
 
 body[theme="forest"] {
     --text-color: white;
@@ -67,17 +60,17 @@ body[theme="matrix"] {
     --navbar: #080808;
     --accent: #0284d4;
 }
-body[theme="beach"] {
+body[theme="indiana"] {
     --text-color: #000000;
-    --background: #f6d7b0;
-    --navbar: #87CEEB;
-    --accent: #0284d4;
+    --background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/2560px-Flag_of_Indiana.svg.png");
+    --navbar: #D59F0F;
+    --accent: #000F5D;
 }
 body[theme="murica"] {
     --text-color: #000000;
-    --background: linear-gradient(#e21f1f, #2233cf);
-    --navbar: #e22e2e;
-    --accent: #0284d4;
+    --background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/1920px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png");
+    --navbar: #B31942;
+    --accent: #0A3161;
 }
 body[theme="modern"] {
     --text-color: #000000;
