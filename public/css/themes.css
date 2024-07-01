@@ -64,7 +64,7 @@ body[theme="indiana"] {
     --text-color: #000000;
     --background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/2560px-Flag_of_Indiana.svg.png");
     --navbar: #D59F0F;
-    --accent: #000F5D;
+    --accent: #ffffff;
 }
 body[theme="murica"] {
     --text-color: #000000;
